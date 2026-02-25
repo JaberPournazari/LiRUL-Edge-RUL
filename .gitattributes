@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.asv
+*.m~
+slprj/
+sccprj/
+codegen/
+*.autosave
+*.slxc
+.DS_Store
+Thumbs.db
